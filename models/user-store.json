@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "firstName": "homer",
+      "lastName": "simpson",
+      "email": "homer@simpson.com",
+      "password": "secret",
+      "id": "3ad52697-6d98-4d80-8273-084de55a86c0"
+    },
+    {
+      "firstName": "marge",
+      "lastName": "simpson",
+      "email": "marge@simpson.com",
+      "password": "secret",
+      "id": "2b6f0989-7b7f-4a38-ad26-aa06b922d751"
+    },
+    {
+      "firstName": "Test",
+      "lastName": "Test",
+      "email": "test@test.com",
+      "password": "test",
+      "id": "93830bbb-92d9-41bc-9974-fac139b2e9c0"
+    },
+    {
+      "firstName": "Joe",
+      "lastName": "Bloggs",
+      "email": "joe@bloggs.com",
+      "password": "joebloggs",
+      "id": "bfe5ec2c-75da-4bf2-a437-cbaf01da80f6"
+    },
+    {
+      "firstName": "Brenda",
+      "lastName": "Mullally",
+      "email": "bm@wit.ie",
+      "password": "Secret1",
+      "id": "46220785-5b92-4c09-b0fb-49c8fc3f4404"
+    },
+    {
+      "firstName": "Geoff",
+      "lastName": "Caulfield",
+      "email": "geoffc@geoffc.com",
+      "password": "ILoveValorant",
+      "id": "8c142e76-51fd-43fa-8030-57bd3b38617b"
+    }
+  ]
+}

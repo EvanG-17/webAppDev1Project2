@@ -1,0 +1,40 @@
+{
+  "movielistCollection": [
+    {
+      "id": "18f0d57f-41c1-49d9-8c7c-20a5018ef492",
+      "title": "Homer Test",
+      "duration": "120",
+      "movies": [
+        {
+          "id": "c18d331d-cca0-4b1c-897d-643af9de8193",
+          "director": "Homer",
+          "genre": "Test",
+          "duration": "100"
+        }
+      ]
+    },
+    {
+      "id": "4a5a79cc-bfa6-4920-aeb3-cfd71faea134",
+      "userid": "46220785-5b92-4c09-b0fb-49c8fc3f4404",
+      "title": "test",
+      "picture": "http://res.cloudinary.com/dt4seaeeg/image/upload/v1651585837/ocssij4jykf3pfukfzov.jpg",
+      "date": "2022-05-03T13:50:36.754Z",
+      "movies": [
+        {
+          "id": "13a30907-0e81-4ad3-b858-bfe5d6a4957e",
+          "director": "k",
+          "genre": "k",
+          "duration": "7"
+        }
+      ]
+    },
+    {
+      "id": "0e62f5d2-daf5-4a31-b8f3-ffcc34b85560",
+      "userid": "8c142e76-51fd-43fa-8030-57bd3b38617b",
+      "title": "232",
+      "picture": "http://res.cloudinary.com/dt4seaeeg/image/upload/v1694040548/fo6joqrvv7xovpzuucjw.webp",
+      "date": "2023-09-06T22:49:08.283Z",
+      "movies": []
+    }
+  ]
+}
