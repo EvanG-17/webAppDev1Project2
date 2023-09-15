@@ -1,0 +1,42 @@
+
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color: #89CFF0;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+  
+}
+
+#readmore {
+  display: none;
+}
+
+#welcomeuser {
+  display: none;
+}
+
+.name{
+  padding-top:20px;
+  padding-right:5px;
+  line-height:20px;
+  font-weight:bold;
+  text-transform:capitalize;
+}
+
+.ui.menu{
+  background-color: #90EE90;
+}
+
+.ui.center.aligned.middle.aligned.segment{
+  background-color: #CBC3E3;
+}
+
+.ui.stacked.segment.form{
+  background-color: #CBC3E3;
+}
+
